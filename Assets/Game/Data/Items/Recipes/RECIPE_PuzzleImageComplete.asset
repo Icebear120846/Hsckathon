@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06a2661e4ed686a4fb66aa656b0135ce, type: 3}
+  m_Name: RECIPE_PuzzleImageComplete
+  m_EditorClassIdentifier: 
+  recipeId: RECIPE_PUZZLE_IMAGE_COMPLETE
+  requiredItems:
+  - {fileID: 11400000, guid: 51a0bd0a961d3974d91e199ff4a8d14a, type: 2}
+  - {fileID: 11400000, guid: f0fc7d5a855c3014b9e7f4596a5be4a1, type: 2}
+  - {fileID: 11400000, guid: d0780d622f63ae54688ad8c249d81760, type: 2}
+  - {fileID: 11400000, guid: 9e38bcf22e91d4c419887c45cc1b35a3, type: 2}
+  resultItem: {fileID: 11400000, guid: 16dab51b1da6c3a42944a9c6daa7a522, type: 2}
+  consumeIngredients: 1
+  combineAutomatically: 1
+  completionFlagId: FLAG_PUZZLE_IMAGE_COMPLETED
+  completionDialogue: {fileID: 0}
+  completionSfx: {fileID: 0}

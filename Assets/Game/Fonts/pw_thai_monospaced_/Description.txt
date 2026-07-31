@@ -1,0 +1,5 @@
+Name    : PWThaiMonospacedEG
+Author  : Eralp GULLEP
+Email   : eralp_AT_myself_DOT_com
+Software: Fontographer 4.1 
+Comments: True MonoSpaced (Fixed-Width) Thai TrueType Font for Windows
